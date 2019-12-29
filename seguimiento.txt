@@ -1,0 +1,6 @@
+#7 - configurar REST API
+https://www.youtube.com/watch?v=c4mzLwZNCgQ
+
+- desde books.js requerimos el models
+- creamos las peticiones de la REST API y con postman las vamos comprovando
+
