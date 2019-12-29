@@ -1,6 +1,48 @@
+#1 - introducción al curso
+https://www.youtube.com/watch?v=Fs1G1BcP4BI&t=4s
+
+#2 - Nodejs backend
+https://www.youtube.com/watch?v=IR5FXX7a_rM
+
+- Creamos las carpetas de backend y front end
+- iniciamos el proyeto de node e instalamos todo lo que necesitamos
+	express mongoose morgan multer dotenv cross-env cors fs-extra
+- Creamos los archivos index, database y las carpetas routes y models
+- Iniciamos el servidor
+
+#3 - Configuramos los middlewares
+https://www.youtube.com/watch?v=VOx3iON96ew
+
+- Requerimos, configuramos y utilizamos los middlewares (morgan y multer)
+- instalamos y utilizamos nodemon
+- usamos urlencoded (interpretar datos de formularios como jsons)
+- usamos express.json para entender jsons en nuestra app
+
+
+#4 - Archivos estáticos, creamos las rutas
+https://www.youtube.com/watch?v=0Clbi-8EiLw
+- Usamos routes para la API y el envío de jsons
+- Usamos es static para el archivo index (los archivos estáticos)
+
+
+#5 - Base de datos y definición del modelo
+https://www.youtube.com/watch?v=NsiGIt9HVBM
+
+- Iniciamos mongo y en database configuramos la configuración
+- Configuramos el model y Schema
+
+
+#6 - Variables de entorno con dotenv y cross-env
+https://www.youtube.com/watch?v=gTZmRwzzDlM
+
+- creamos el .env para sustituir la cadena de conexión de la bbdd
+- creamos el girignore
+- Con cross-env definimos el entorno y utilizamos dotenv en development
+
+
 #7 - configurar REST API
 https://www.youtube.com/watch?v=c4mzLwZNCgQ
 
-- desde books.js requerimos el models
+- desde books.js (routes) requerimos el models
 - creamos las peticiones de la REST API y con postman las vamos comprovando
 
