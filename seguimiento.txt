@@ -46,3 +46,21 @@ https://www.youtube.com/watch?v=c4mzLwZNCgQ
 - desde books.js (routes) requerimos el models
 - creamos las peticiones de la REST API y con postman las vamos comprovando
 
+
+#8 - Frontend
+https://www.youtube.com/watch?v=z3OyqCE_J64
+- instalamos en desarrollo webpack webpack-cli html-webpack-plugin css-loader style-loader mini-css-extract-plugin webpack-dev-server timeago.js
+- Creamos los archivos del frontend (app index UI) y las carpetas (models services styles)
+
+
+#9 - Webpack
+https://www.youtube.com/watch?v=gtkdxLgHIhg
+- Creamos el archivo webpack.config.js y lo vamos configurando con sus plugins (htmlwebpackplugin, minicssextractplugin y "devtool") para minificar los archivos que nos crea en el backend
+- Con cross-env creamos el script build para que ejecute webpack en production
+- Separamos los archivos cuando estamos en produccion y no todos en el js con process.env.NODE_ENV
+- Añadimos al npm run dev el ignore frontend para que no reinicie nodemon al alterar esa carpeta
+
+
+# - user interface
+https://www.youtube.com/watch?v=mX6NwOwTlzk
+@
