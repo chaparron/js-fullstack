@@ -61,6 +61,14 @@ https://www.youtube.com/watch?v=gtkdxLgHIhg
 - Añadimos al npm run dev el ignore frontend para que no reinicie nodemon al alterar esa carpeta
 
 
-# - user interface
+#10 - user interface
 https://www.youtube.com/watch?v=mX6NwOwTlzk
-@
+- Utilizamos bootstrap de framework css y animated css con sus cdns
+- creamos el script server:dev para usar el módulo webpack-dev-server en desarrollo
+- Creamos el formulario
+- Cambiamos el enlace de bootstrap a uno de bootswatch
+
+
+#11 - javascript service clases, fetch y AJAX
+https://www.youtube.com/watch?v=hO9993I520E
+
